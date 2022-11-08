@@ -77,7 +77,29 @@ p {
     margin-left: 20px;
 }
 
-/* i think this code needs to be moved towards the end of the content items */
+
+/* following 3 will be replaced with .article-insides */
+.article-insides {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* the following 3 will be replaced with .article-insides img */
+.article-insides img {
+    max-height: 200px;
+}
+
+
+/* the following 3 will be replaced with .article-insides h2 */
+.article-insides h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 /* .side-pieces */
 .side-pieces {
     margin-right: 20px;
@@ -111,30 +133,6 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
-
-/* following 3 will be replaced with .article-insides */
-.article-insides {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* the following 3 will be replaced with .article-insides img */
-.article-insides img {
-    max-height: 200px;
-}
-
-
-/* the following 3 will be replaced with .article-insides h2 */
-.article-insides h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 
 .footer-tings {
     padding: 30px;
