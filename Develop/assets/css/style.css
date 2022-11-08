@@ -76,7 +76,7 @@ section {
     margin-left: 20px;
 }
 
-.benefits {
+.assist {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -135,7 +135,9 @@ section {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+
+/* okay these 3 are the exact same thing, why are they seperate */
+.body-content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -144,50 +146,18 @@ section {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
+/* my quick fix to having the images under the same thing */
+article img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
+/* another quick fix to remove repetitive code */
+article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 .footer {
     padding: 30px;
