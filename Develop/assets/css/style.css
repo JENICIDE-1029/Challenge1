@@ -7,23 +7,23 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* needs to change to just header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* header h1 */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* header h1 .seo */
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* .links */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,16 +31,16 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* .links div ul */
 .header div ul {
     list-style-type: none;
 }
-
+/* .links div ul li */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* i think this stays the same lol */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* something needs to happen here cuz idk how to leave an alt comment for this  */
 .hero {
     height: 800px;
     width: 100%;
@@ -69,12 +70,15 @@ p {
     margin-left: 25px;
 }
 
+/* .main-section-content */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* i think this code needs to be moved towards the end of the content items */
+/* .side-pieces */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,6 +90,8 @@ p {
     background-color: #2589bd;
 }
 
+/* the following three are the same and will be refrenced under the new class name of 
+.side-info */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -100,6 +106,8 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
+/* so the following 3 will bre replaced with .side-info h3 */
 
 .benefit-lead h3 {
     margin-bottom: 10px;
@@ -116,11 +124,13 @@ p {
     text-align: center;
 }
 
+/* the following 3 will be replaced with .side-info img */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+
 
 .benefit-brand img {
     display: block;
@@ -134,6 +144,7 @@ p {
     max-width: 150px;
 }
 
+/* following 3 will be replaced with .article-insides */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,6 +172,7 @@ p {
     color: #ffffff;
 }
 
+/* the following 3 will be replaced with .article-insides img */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -173,6 +185,7 @@ p {
     max-height: 200px;
 }
 
+/* the following 3 will be replaced with .article-insides h2 */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
