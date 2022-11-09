@@ -9,14 +9,13 @@ Overall, this project was a lot of fun and I did struggle quite a bit but things
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running. 
+N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+To use this marketing business website, click on the navigation bar menu items to be directed to the various sections within the webpage detailing what Horiseon has to offer
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-![alt text](assets/images/screenshot.on.shots.png)
+![Screenshot of Website](assets/images/screenshot.on.shots.png)
 
-![alt text](assets/images/)
+!link to Website: https://jenicide-1029.github.io/Challenge1/ 
