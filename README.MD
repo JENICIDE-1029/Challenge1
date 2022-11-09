@@ -13,7 +13,7 @@ N/A
 
 ## Usage
 
-To use this marketing business website, click on the navigation bar menu items to be directed to the various sections within the webpage detailing what Horiseon has to offer
+To use this marketing business website, click on the navigation bar menu items to be directed to the various sections within the webpage detailing what Horiseon has to offer along with additional benefits of partnering with them 
 
 
 ![Screenshot of Website](assets/images/screenshot.on.shots.png)
